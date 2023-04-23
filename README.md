@@ -14,15 +14,14 @@ L'API utilisée pour récupérer les données des personnages est documentée ic
 https://studio.apollographql.com/public/rick-and-morty-a3b90u/variant/current/schema/reference
 
 ## Installation
-* Clonez le dépôt git
+* Cloner le dépôt git
 * Exécuter la commande npm install pour installer les dépendances
 * Exécuter la commande npm run dev pour lancer l'application en mode développement
 
 ## Fonctionnalités
 * Filtrer les personnages par genre, statut et espèce
-* Afficher les détails d'un personnage en cliquant sur sa carte
+* Afficher les personnages
 * Pagination des résultats
-* Rechercher un personnage par nom
 
 
 Réalisé par ElLamasticot
