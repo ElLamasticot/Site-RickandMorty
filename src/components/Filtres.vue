@@ -5,7 +5,7 @@
     <div class="grid grid-cols-2 gap-2 mb-4">
       <!-- Première colonne -->
       <div>
-        <h2 class="mb-2 text-xl">Genre</h2>
+        <h2 class="mb-2 text-xl">Gender</h2>
         <div class="flex flex-col">
           <!-- Boutons pour sélectionner le genre -->
           <button
@@ -21,7 +21,7 @@
       </div>
       <!-- Deuxième colonne -->
       <div>
-        <h2 class="mb-2 text-xl">Statut</h2>
+        <h2 class="mb-2 text-xl">Status</h2>
         <div class="flex flex-col">
           <!-- Boutons pour sélectionner le statut -->
           <button
@@ -38,7 +38,7 @@
     </div>
     <!-- Section pour sélectionner l'espèce -->
     <div class="mb-4">
-      <h2 class="mb-2 text-xl">Espèce</h2>
+      <h2 class="mb-2 text-xl">Species</h2>
       <!-- Grille avec 2 colonnes -->
       <div class="grid grid-cols-2 gap-2">
         <!-- Boutons pour sélectionner l'espèce -->
