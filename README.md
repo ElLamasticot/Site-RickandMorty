@@ -1,6 +1,8 @@
 # Site de tri de personnages de la série Rick & Morty
 Cette application permet de lister les personnages de la série "Rick and Morty" en fonction de critères sélectionnés par l'utilisateur.
 
+Lien de l'App: https://ellamasticot.github.io/Site-RickandMorty/
+
 ## Technologies utilisées
 * Vue3 avec ViteJs  
 * Tailwindcss  
@@ -21,5 +23,6 @@ https://studio.apollographql.com/public/rick-and-morty-a3b90u/variant/current/sc
 * Afficher les détails d'un personnage en cliquant sur sa carte
 * Pagination des résultats
 * Rechercher un personnage par nom
+
 
 Réalisé par ElLamasticot
