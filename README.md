@@ -1,7 +1,22 @@
-# Vue 3 + Vite
+# Site de tri de personnages de la série Rick & Morty
+Cette application permet de lister les personnages de la série "Rick and Morty" en fonction de critères sélectionnés par l'utilisateur.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Technos utilisées
+Vue3 avec ViteJs
+Tailwindcss
+Apollo GraphQL
+Font Awesome
+## Documentation de l'API
+L'API utilisée pour récupérer les données des personnages est documentée à l'URL suivante : https://studio.apollographql.com/public/rick-and-morty-a3b90u/variant/current/schema/reference
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Installation
+Clonez le dépôt git
+Exécutez la commande npm install pour installer les dépendances
+Exécutez la commande npm run dev pour lancer l'application en mode développement
+Fonctionnalités
+Filtrer les personnages par genre, statut et espèce
+Afficher les détails d'un personnage en cliquant sur sa carte
+Pagination des résultats
+Rechercher un personnage par nom
+Auteur
+Réalisé par ElLamasticot
